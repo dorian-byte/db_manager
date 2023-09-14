@@ -19,10 +19,10 @@ This app comes with a `users.csv` file for testing purposes, and also to exempli
 
 Execute the following commands to run the app:
 
-\```
+```
 pip install -r requirements.txt
 python data_processor.py
-\```
+```
 
 After executing the above commands, a `users` table will be created in the Postgres database. If no table name is given, the name of the csv file will be taken as the default name for the table being created.
 
@@ -30,7 +30,7 @@ After executing the above commands, a `users` table will be created in the Postg
 
 To view the data in the `users` table:
 
-\```
+```
 psql postgres
 select * from users;
-\```
+```
