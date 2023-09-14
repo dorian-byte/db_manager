@@ -1,0 +1,11 @@
+id,username,email,is_active,user_role,created_at
+1,alice,alice@email.com,true,admin,2023-09-12T14:00:00Z
+2,bob,bob@email.com,true,user,2023-09-12T15:00:00Z
+3,charlie,charlie@email.com,false,admin,2023-09-11T16:00:00Z
+4,david,david@email.com,true,user,2023-09-10T17:00:00Z
+5,eve,eve@email.com,false,admin,2023-09-09T18:00:00Z
+6,frank,frank@email.com,true,user,2023-09-08T19:00:00Z
+7,grace,grace@email.com,false,admin,2023-09-07T20:00:00Z
+8,harry,harry@email.com,true,user,2023-09-06T21:00:00Z
+9,irene,irene@email.com,false,admin,2023-09-05T22:00:00Z
+10,john,john@email.com,true,user,2023-09-04T23:00:00Z
